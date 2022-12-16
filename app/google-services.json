@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027551411381",
+    "project_id": "finpro4-fbaff",
+    "storage_bucket": "finpro4-fbaff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027551411381:android:2cb43a000832d8b261d2fc",
+        "android_client_info": {
+          "package_name": "com.marcod.finalproject4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027551411381-vhp73ds5ldki4lkhu3j08k2p0fac9676.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLDILj3bqcoHZWKfmPTG-x5u8s7uWMwz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027551411381-vhp73ds5ldki4lkhu3j08k2p0fac9676.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
